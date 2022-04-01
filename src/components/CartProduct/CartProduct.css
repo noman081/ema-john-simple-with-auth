@@ -1,0 +1,31 @@
+.cart-product {
+    border: 1px solid gray;
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
+    border-radius: 10px;
+    width: 80%;
+}
+
+.cart-product img {
+    width: 86px;
+    margin-right: 20px;
+
+}
+
+.product-details {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.delete-btn {
+    padding: 10px;
+    border: none;
+    background: rgba(235, 87, 87, 0.3);
+    color: white;
+    border-radius: 50%;
+}
